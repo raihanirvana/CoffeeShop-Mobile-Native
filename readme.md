@@ -29,7 +29,7 @@ Front End for Coffee Shop mobile version
 
 - [React Native](https://reactnative.dev/docs/getting-started)
 - [Redux](https://redux-toolkit.js.org)
-- [Notifee](hhttps://notifee.app/react-native/docs/overview)
+- [Notifee](https://notifee.app/react-native/docs/overview)
 - etc.
 
 ## Features
