@@ -14,6 +14,7 @@ Front End for Coffee Shop mobile version
 ## Table of Contents
 
 - [Table of Contents](#table-of-contents)
+- [Overview](#overview)
 - [Technologies Used](#technologies-used)
 - [Features](#features)
 - [Getting Started](#getting-started)
@@ -24,6 +25,10 @@ Front End for Coffee Shop mobile version
 - [Related Project](#related-project)
 - [License](#license)
 - [Suggestion](#suggestion)
+
+## Overview
+
+An online coffee shop is a website that allows users to register,login,make some profile, and order their favorite coffee online. Offering a wide selection of coffee, fast delivery, and convenient ordering, this platform is a practical solution for coffee lovers who want to enjoy the best quality coffee from the comfort of their homes
 
 ## Technologies Used
 
